@@ -1,6 +1,6 @@
 import React from "react"
 import "./Home.css"
-import hero from "../pic/hero2.png"
+import hero from "../pic/logo12.png"
 import skill1 from "../pic/8618881.png"
 import skill2 from "../pic/skill4.png"
 import skill3 from "../pic/skill3.png"
